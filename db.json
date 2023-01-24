@@ -1,0 +1,70 @@
+{
+    "properties": [
+      {
+        "imgs": [
+          "https://static.inmofactory.com/images/inmofactory/documents/1/105683/32665804/534556854.jpg?rule=web_1200x0",
+          "https://static.inmofactory.com/images/inmofactory/documents/1/105683/32665804/534556859.jpg?rule=web_1200x0",
+          "https://static.inmofactory.com/images/inmofactory/documents/1/105683/32665804/534556820.jpg?rule=web_1200x0",
+          "https://static.inmofactory.com/images/inmofactory/documents/1/105683/32665804/534556818.jpg?rule=web_1200x0",
+          "https://static.inmofactory.com/images/inmofactory/documents/1/105683/32665804/534556828.jpg?rule=web_1200x0",
+          "https://static.inmofactory.com/images/inmofactory/documents/1/105683/32665804/534556859.jpg?rule=web_1200x0"
+        ],
+        "description": "Esta propiedad está ubicada en el encantador barrio de Sant Antoni del distrito del Eixample de Barcelona. El edificio de estilo clásico data de 1900 y ha sido completamente renovado, ofreciendo ascensor y atractivas zonas comunes. Las zonas comunes del edificio incluyen aparcamientos para bicicletas, bodega, lavadero y terraza comunitaria con duchas exteriores, salón y bar social. Las cocinas cuentan con electrodomésticos empotrados (lavavajillas, horno, microondas, cafetera y frigorífico), grifería Zucchetti y encimera de porcelana. Esta propiedad de 3 dormitorios está en el cuarto piso y es el resultado de un concepto de diseño inteligente por el cual un solo espacio puede transformarse con un sistema de paneles deslizantes.",
+        "city": "San Antoni, Barcelona",
+        "adress": "C. del Comte Borrell, 21, 33, 08015 Barcelona, España",
+        "owner": "Private",
+        "type": "APARTAMENT",
+        "status": "FOR SALE",
+        "price": "475000",
+        "area": "89",
+        "garages": "2",
+        "bathrooms": "2",
+        "bedrooms": "3",
+        "id": 1
+      },
+      {
+        "imgs": [
+          "https://static.inmofactory.com/images/inmofactory/documents/1/105683/32665804/534556854.jpg?rule=web_1200x0",
+          "https://static.inmofactory.com/images/inmofactory/documents/1/105683/32665804/534556859.jpg?rule=web_1200x0",
+          "https://static.inmofactory.com/images/inmofactory/documents/1/105683/32665804/534556820.jpg?rule=web_1200x0",
+          "https://static.inmofactory.com/images/inmofactory/documents/1/105683/32665804/534556818.jpg?rule=web_1200x0",
+          "https://static.inmofactory.com/images/inmofactory/documents/1/105683/32665804/534556828.jpg?rule=web_1200x0",
+          "https://static.inmofactory.com/images/inmofactory/documents/1/105683/32665804/534556859.jpg?rule=web_1200x0"
+        ],
+        "description": "Esta propiedad está ubicada en el encantador barrio de Sant Antoni del distrito del Eixample de Barcelona. El edificio de estilo clásico data de 1900 y ha sido completamente renovado, ofreciendo ascensor y atractivas zonas comunes. Las zonas comunes del edificio incluyen aparcamientos para bicicletas, bodega, lavadero y terraza comunitaria con duchas exteriores, salón y bar social. Las cocinas cuentan con electrodomésticos empotrados (lavavajillas, horno, microondas, cafetera y frigorífico), grifería Zucchetti y encimera de porcelana. Esta propiedad de 3 dormitorios está en el cuarto piso y es el resultado de un concepto de diseño inteligente por el cual un solo espacio puede transformarse con un sistema de paneles deslizantes.",
+        "city": "San Antoni, Barcelona",
+        "adress": "C. del Comte Borrell, 21, 33, 08015 Barcelona, España",
+        "owner": "Private",
+        "type": "APARTAMENT",
+        "status": "FOR SALE",
+        "price": "475000",
+        "area": "89",
+        "garages": "2",
+        "bathrooms": "2",
+        "bedrooms": "3",
+        "id": 1
+      },
+      {
+        "imgs": [
+          "https://static.inmofactory.com/images/inmofactory/documents/1/105683/32665804/534556854.jpg?rule=web_1200x0",
+          "https://static.inmofactory.com/images/inmofactory/documents/1/105683/32665804/534556859.jpg?rule=web_1200x0",
+          "https://static.inmofactory.com/images/inmofactory/documents/1/105683/32665804/534556820.jpg?rule=web_1200x0",
+          "https://static.inmofactory.com/images/inmofactory/documents/1/105683/32665804/534556818.jpg?rule=web_1200x0",
+          "https://static.inmofactory.com/images/inmofactory/documents/1/105683/32665804/534556828.jpg?rule=web_1200x0",
+          "https://static.inmofactory.com/images/inmofactory/documents/1/105683/32665804/534556859.jpg?rule=web_1200x0"
+        ],
+        "description": "Esta propiedad está ubicada en el encantador barrio de Sant Antoni del distrito del Eixample de Barcelona. El edificio de estilo clásico data de 1900 y ha sido completamente renovado, ofreciendo ascensor y atractivas zonas comunes. Las zonas comunes del edificio incluyen aparcamientos para bicicletas, bodega, lavadero y terraza comunitaria con duchas exteriores, salón y bar social. Las cocinas cuentan con electrodomésticos empotrados (lavavajillas, horno, microondas, cafetera y frigorífico), grifería Zucchetti y encimera de porcelana. Esta propiedad de 3 dormitorios está en el cuarto piso y es el resultado de un concepto de diseño inteligente por el cual un solo espacio puede transformarse con un sistema de paneles deslizantes.",
+        "city": "San Antoni, Barcelona",
+        "adress": "C. del Comte Borrell, 21, 33, 08015 Barcelona, España",
+        "owner": "Private",
+        "type": "APARTAMENT",
+        "status": "FOR SALE",
+        "price": "475000",
+        "area": "89",
+        "garages": "2",
+        "bathrooms": "2",
+        "bedrooms": "3",
+        "id": 1
+      }
+    ] 
+}
